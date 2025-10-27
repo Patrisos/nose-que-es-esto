@@ -107,8 +107,8 @@ This repository is for learning, so feel free to practice!
 ### Cómo contribuir / How to contribute
 1. Haz un fork del repositorio
 2. Crea una rama para tu cambio (`git checkout -b mi-cambio`)
-3. Haz tus cambios y commitéalos
-4. Empuja tu rama (`git push origin mi-cambio`)
+3. Haz tus cambios y confírmalos
+4. Sube tu rama (`git push origin mi-cambio`)
 5. Abre un Pull Request
 
 ## Preguntas Frecuentes / FAQ
